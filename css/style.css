@@ -1,4 +1,7 @@
 /* ------------------ General CSS ------------------ */
+:root{
+    
+}
 body {
     color: #656565;
     font-family: 'Montserrat', sans-serif;
@@ -6,7 +9,7 @@ body {
 }
 
 a {
-    color: #1dbf73;
+    color:rgb(110, 217, 128);
     transition: 0.3s;
 }
 
